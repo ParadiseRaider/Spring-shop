@@ -1,0 +1,9 @@
+# Project exclude paths
+/admin-tests/target/
+/picture-service/target/
+/shop-database/target/
+/shop-eureka/target/
+/shop-ui/target/
+/shop-zuul-proxy/target/
+/spring-integration-demo/target/
+/stock-service/target/
